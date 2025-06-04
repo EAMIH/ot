@@ -1,0 +1,38 @@
+# CMake build folders
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Executables and libraries
+*.exe
+*.out
+*.app
+*.a
+*.so
+*.dll
+*.dylib
+
+# Object files
+*.o
+*.obj
+*.lo
+
+# Test output
+Testing/
+CTestTestfile.cmake
+
+# VSCode/CLion/IDE settings
+.vscode/
+.idea/
+
+# Logs and other generated files
+*.log
+*.json
+*.xml
+*.user
+*.swp
+*.swo
+*.DS_Store
+
